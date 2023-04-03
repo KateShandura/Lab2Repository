@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Lab2Shandura</string>
+    <string name="lard_recipe">"
+                    Pour clean water for brine preparation into a small saucepan and boil. During the process of boiling, add the coriander peas for bolder spicy flavor, and break the bay leaf with your hands to make medium and small pieces.
+                    When the water with spices heats to a warm state, add salt. Stirring and dissolving salt crystals let’s bring the brine to active boiling. Separately let me tell you about brine and why lard in brine turns out gentler. The fact is that if in your lard there is at least the smallest meat layer, in case of dry salting it will become very hard, because salt deprives it of all moisture. Therefore dry salting is acceptable more for lard from full fat mass, but prepared in salt water belly bacon and \"meat\" lard turn out much softer!
+                    Prepare the lard in advance so then pour the ready pieces with hot brine. It needs to be pre-cleaned with a knife to ensure your piece is clean, and rinsed and dried with dense kitchen wipes. The whole bar is then cut in pieces with side sizes of about 6 by 6 cm or 6 by 8.\n
+                    Place the pieces in a suitable container - it should be high enough, but also not too wide for the brine to cover all pieces of lard completely. You can take a container made of plastic or from food stainless steel
+                    Pour fresh lard with hot brine.
+                    If the lard comes up - cover it with a light saucer to only slightly \"drown\" the pieces into the water. In this form, leave the lard for 1-2 days at room temperature, but not more than 25 degrees.
+                    After the lard is salted, let’s take out the pieces from the spicy brine and dry them with paper towels.
+                    Clean the garlic head and then cut into the middle slices garlic cloves. Stick slices of garlic into the lard spontaneously, to taste and will, placing slices onto different depths."
+                    Pour the ground coriander onto a wide dish and roll lard pieces with garlic in this spicy coating. If you dried athe lard well and there is no excess moisture left on it, the coriander will stick thoroughly to the fat surface of the pieces and hold on well."</string>
+    <string name="beef_stake">"
+        Ingredients:
+        4 pounds New York strip steak, sliced thin
+        1 lemon, juiced
+        3 tablespoons soy sauce
+        1 teaspoon white sugar
+        salt and pepper to taste
+        1 tablespoon cornstarch
+        ¼ cup vegetable oil
+        3 tablespoons olive oil
+        1 onion, chopped
+        2 cloves garlic, chopped
+
+        Directions
+        Step 1
+        Place sliced beef in a large bowl. Whisk together lemon juice, soy sauce, sugar, salt, and pepper in a small bowl; pour over beef and toss to coat. Stir in cornstarch. Cover and refrigerate for 1 hour to overnigh
+        Step 2
+        Heat vegetable oil in a large skillet over medium heat.
+        Step 3
+        Remove beef slices from marinade, shaking to remove any excess liquid. Discard marinade.
+        Step 4
+        Working in batches, fry beef slices in hot oil until they start to firm and are reddish-pink and juicy in the center, 2 to 4 minutes per side. Transfer beef slices to a serving platter.
+        Step 5
+        Heat olive oil in a small skillet over medium heat. Cook and stir onion and garlic in hot oil until onion is golden brown, 5 to 7 minutes; spoon over beef slices."
+    </string>
+    <string name="chicken_curry">"
+        Ingredients for Chicken Curry
+        Coriander, cumin, turmeric, fennel seeds, cinnamon, pepper, ground mustard, ground cloves, cayenne pepper and salt – these spices build incredible flavor in this dish. Together they create a homemade curry blend.
+        Olive oil – used for sautéing.
+        Fresh onion, garlic and ginger – these aromatics add a key depth of flavor.
+        Low-sodium chicken broth – to create a sauce base to coat the chicken.
+        Canned tomatoes – fresh tomatoes will work here too but canned are quicker and easier.
+        Chicken breasts – be careful not to over-cook so the chicken doesn’t become dry.
+        Cornstarch – used to thicken the sauce slightly.
+        Heavy cream – this makes the sauce deliciously rich and creamy.
+        Chopped cilantro – adds a nice prop of fresh flavor and color.
+
+        How to Make Chicken Curry
+        Mix spices together
+        Saute onion, garlic and ginger in a skillet.
+        Add broth and tomatoes, simmer.
+        Blend mixture in a blender as directed then return to skillet.
+        Season sauce then add chicken.
+        Simmer chicken in sauce until cooked through.
+        Add cornstarch slurry during last minute to thicken sauce.
+        Stir in cream.
+        Serve over rice garnished with cilantro.
+        "</string>
+    <string name="urlPigPhoto">https://cdn-icons-png.flaticon.com/512/2931/2931513.png</string>
+    <string name="urlCowPhoto">https://cdn-icons-png.flaticon.com/512/1998/1998610.png</string>
+    <string name="urlChickenPhoto">https://cdn-icons-png.flaticon.com/512/1864/1864499.png</string>
+    <string name="urlLardPhoto">https://thumbs.dreamstime.com/b/ukrainian-lard-black-bread-packaging-paper-67909235.jpg</string>
+    <string name="urlBeefStake">https://moodysbutchershop.com/wp-content/uploads/2017/09/Ribeye-on-Platter.jpg</string>
+    <string name="urlChickenCurry">https://assets.epicurious.com/photos/54b037dd766062b20344a2ed/1:1/w_2560%2Cc_limit/51140410_thai-chicken-curry_1x1.jpg</string>
+</resources>
